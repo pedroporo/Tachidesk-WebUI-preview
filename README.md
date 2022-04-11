@@ -1,2 +1,2 @@
 # Tachidesk-WebUI-preview
-This repository holds Continuous builds of [Tachidesk-WebUI](https://github.com/Suwayomi/Tachidesk-WebUI).
+This reposito ry holds Continuous builds of [Tachidesk-WebUI](https://github.com/Suwayomi/Tachidesk-WebUI).
